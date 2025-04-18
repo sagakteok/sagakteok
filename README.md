@@ -30,6 +30,28 @@
   <li>2021.11.02: 올바른 112 신고 '우수상' (경찰청)</li>
 </div>
 
+<h2 align="center">🖥️ My Main Projects</h2>
+<h3>1️⃣ 서류봉투 - 진행 중</h3>
+<h5>설명: 한국의 모든 증명서를 열람 및 인쇄하고, 업무 별로 필요한 서류를 인쇄하는 방법을 알려주는 서비스</h5>
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+</div>
+<h3>2️⃣ 카셀렉트 - 진행 중</h3>
+<h5>설명: 모든 자동차 브랜드 견적 맞추는 서비스</h5>
+<div>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Capacitor.js-119EFF?style=flat-square&logo=Capacitordotjs&logoColor=white"/>
+</div>
+<h3>3️⃣ Lot Bot - 진행 중</h3>
+<h5>설명: 교내 주차장 관리 시스템</h5>
+<div>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+</div>
+
 <div>
   <h2 align="center">💻 My Tech Stack</h2>
   <h3>Languages</h3>
