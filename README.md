@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=SQL&logoColor=white"/>
   </div>
   <h3>Tools</h3>
   <h6>IDE</h6>
@@ -77,7 +78,7 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   </div>
-  <h6>Web Template Engine></h6>
+  <h6>Web Template Engine</h6>
   <div>
     <img src="https://img.shields.io/badge/JSP-F7DF1E?style=flat-square&logo=JSP&logoColor=white"/>
   </div>
