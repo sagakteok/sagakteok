@@ -8,6 +8,28 @@
   <h4>🙏 I hope to become a web full-stack developer.</h4>
 </div>
 
+<h2 align="center">💳 Certificates</h2>
+<div>
+  <li>2021.11.12: 컴퓨터활용능력 1급 (대한상공회의소)</li>
+  <li>2025.03.12: 정보처리기사 필기 (산업인력공단)</li>
+</div>
+
+<h2 align="center">📄 Activities</h2>
+<div>
+  <li>2022.01.14 ~ 2022.12.22: 삼성전자 대학생 서포터즈 2기 (삼성전자)</li>
+</div>
+
+<h2 align="center">🏆 Awards</h2>
+<h3>Programming</h3>
+<div>
+  <li>2023.12.05: 교내 미로탈출 자율주행 코딩 경진대회 '우수상'</li>
+</div>
+<h3>Media Contents</h3>
+<div>
+  <li>2021.10.21: 서울 100초 영화제 '최우수상' (서울관광재단)</li>
+  <li>2021.11.02: 올바른 112 신고 '우수상' (경찰청)</li>
+</div>
+
 <div>
   <h2 align="center">💻 My Tech Stack</h2>
   <h3>Languages</h3>
@@ -22,6 +44,11 @@
     <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=SQL&logoColor=white"/>
   </div>
   <h3>Tools</h3>
+  <h6>Collaboration</h6>
+  <div>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </div>
   <h6>IDE</h6>
   <div>
     <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>
@@ -42,12 +69,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   </div>
 
-  <h3>Collaboration Tools</h3>
-  <div>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </div>
-
   <h3>Frontend</h3>
   <h6>SPA Framework & Library</h6>
   <div>
@@ -58,11 +79,11 @@
   <div>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Nextdotjs&logoColor=white"/>
   </div>
-  <h6>CSS Frameworks</h6>
+  <h6>CSS Framework</h6>
   <div>
     <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=SASS&logoColor=white"/>
   </div>
-  <h6>CSS Preprocessors</h6>
+  <h6>CSS Preprocessor</h6>
   <div>
     <img src="https://img.shields.io/badge/Material UI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>
