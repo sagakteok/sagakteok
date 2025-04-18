@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">프론트엔드 개발로 시작하여 이제는 풀스택 개발을 꿈꾸는 개발자입니다 😉</h3>
-<h5 align="center">⌨️ 현재 컴퓨터공학과에 재학 중입니다 ⌨️</h5>
+<h4 align="center">⌨️ 현재 컴퓨터공학과에 재학 중입니다 ⌨️</h4>
 
 <h2 align="center">💳 Certificates</h2>
 <div>
