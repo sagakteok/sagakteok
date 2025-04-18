@@ -2,11 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&fontColor=ADC3FC&animation=fadeIn&section=header&text=Hi,%20I'm%20sagakteok!%20%F0%9F%A4%97" />
 </div>
 
-<div>
-  <h2 align="center">🤔 Who am I?</h2>
-  <h4>👨🏻‍💻 I am a computer engineering student.</h4>
-  <h4>🙏 I hope to become a web full-stack developer.</h4>
-</div>
+<h3 align="center">프론트엔드 개발로 시작하여 이제는 풀스택 개발을 꿈꾸는 개발자입니다 😉</h3>
+<h5 align="center">⌨️ 현재 컴퓨터공학과에 재학 중입니다 ⌨️</h5>
 
 <h2 align="center">💳 Certificates</h2>
 <div>
