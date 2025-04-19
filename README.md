@@ -142,10 +142,6 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
   </div>
-  <h6>Proxy</h6>
-  <div>
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
-  </div>
 
   <h3>Mobile Application</h3>
   <h6>Native</h6>
