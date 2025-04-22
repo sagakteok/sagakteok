@@ -67,7 +67,7 @@
   <div>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Whimsical-#8F2AE0?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Whimsical-#8F2AE0?style=flat-square&logo-VSCode&logoColor=white"/>
   </div>
   <h6>IDE</h6>
   <div>
